@@ -28,9 +28,9 @@ The purpose of the election audit is to take in the results from election_result
 
 ### Images of results
 - Terminal image
-![Graph 1. Election Audit Results](resources/TerminalOutput.png)
+![Graph 1. Election Audit Results](Election_Analysis_Challenge/resources/TerminalOutput.png)
 
 - Text file image
-![Graph 2. Election Audit Results](resources/TextFileOutput.png)
+![Graph 2. Election Audit Results](Election_Analysis_Challenge/resources/TextFileOutput.png)
 
 ## Election-Audit Summary:
